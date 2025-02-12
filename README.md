@@ -30,6 +30,14 @@ cd Snail-Tor
 
 Python3 Snail-Tor.py
 
+## How to use :
+
+step 1 : configure
+
+step 2 : Create hidden service
+
+step 3 : Edit hidden service
+
 ###########################################################
 
 A project by Krypton-777
