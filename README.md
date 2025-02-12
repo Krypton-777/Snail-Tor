@@ -28,7 +28,7 @@ git clone https://github.com/Krypton-777/Snail-Tor
 
 cd Snail-Tor
 
-Python Snail-Tor.py
+Python3 Snail-Tor.py
 
 ###########################################################
 
