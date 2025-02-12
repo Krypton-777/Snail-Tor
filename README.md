@@ -32,7 +32,15 @@ Python3 Snail-Tor.py
 
 ## How to use :
 
-step 1 : configure
+step 1 : enter option 3 (configure) and change:
+
+#HiddenServiceDir /data/data/com.termux/files/usr/var/lib/tor/hidden_service/
+#HiddenServicePort 80 127.0.0.1:80
+
+To:
+
+HiddenServiceDir /data/data/com.termux/files/usr/var/lib/tor/hidden_service/
+HiddenServicePort 80 127.0.0.1:8080
 
 step 2 : Create hidden service
 
