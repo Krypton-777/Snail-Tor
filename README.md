@@ -32,7 +32,7 @@ Python3 Snail-Tor.py
 
 ## How to use :
 
-STEP 1 : enter option 03 (configure) and change:
+STEP 1 : enter option 01 (Config) and change:
 
 #HiddenServiceDir /data/data/com.termux/files/usr/var/lib/tor/hidden_service/
 
